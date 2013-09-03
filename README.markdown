@@ -5,7 +5,7 @@ Mailchimp is a simple API wrapper public Mailchimp APIs.
 This is heavily based on https://github.com/amro/uakari/ and https://github.com/amro/gibbon/, and adds
 support for the private beta release of Mandrill.
 
-While this works for some simple use cases, it comes with warranty of any kind and may not work for 
+While this works for some simple use cases, it comes without warranty of any kind and may not work for 
 your needs yet!
 
 We welcome bug reports and pull requests, and will remove the .alpha label from this gem once we are
